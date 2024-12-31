@@ -14,7 +14,7 @@ I'm Passionate about creating scalable, well-designed web applications. Enthusia
 ### ⚡ Fun Facts:
 
 - Little bit believe in _Chaos theory_ (i.e) where unpredictable systems often have hidden, understandable patterns.
-
+- Love reading articles/blogs <br><br> <img src="https://skillicons.dev/icons?i=devto" width="50" height="40"/>
 ---
 
 ### 💬 **Let's talk about**:
@@ -25,26 +25,33 @@ I'm Passionate about creating scalable, well-designed web applications. Enthusia
 
 ### 🔧 **Skills & Technologies**:
 
-#### Tools & Languages:
+#### Tools:
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=bootstrap,git,vscode,github&perline=2"/>
+</div>
 
-<p align="left">
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-
-</p>
+---
 
 #### Programming Languages:
 
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp" /><br>
+</div>
+
+---
+
+#### Scripting Languages:
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,python" /><br>
+</div>
+
+---
+
+#### Miscellaneous:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css" /><br>
+</div>
 
 ---
 
