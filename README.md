@@ -6,7 +6,7 @@ I'm passionate about creating scalable, well-designed web applications. Enthusia
 
 ### 🔥 **Current Focus:**
 
-- Enhancing skills in full-stack JavaScript development.
+- Enhancing skills in MERN-stack JavaScript development.
 - Building innovative web projects with best practices in mind.
 
 ---
@@ -30,7 +30,7 @@ I'm passionate about creating scalable, well-designed web applications. Enthusia
 
 #### 🛠️ Tools:
 <div align="center">
- <img src="https://skillicons.dev/icons?i=bootstrap,git,vscode,github,xampp&perline=3"/>
+ <img src="https://skillicons.dev/icons?i=git,vscode,github,xampp&perline=3"/>
 </div>
 
 ---
@@ -51,18 +51,9 @@ I'm passionate about creating scalable, well-designed web applications. Enthusia
 
 #### 🚀 Frameworks / Libraries:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,angular" />
 </div>
 
----
-
-#### 📌 Skill Proficiency Note:
-
-- ✅ **Well known:**  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" height="30"/>
-
-- 🟡 **Moderately known:**  
-  <img src="https://skillicons.dev/icons?i=java,php,angular,python,c,cpp,xampp" height="30"/>
 ---
 
 ### 🌱 **Currently Learning**:
