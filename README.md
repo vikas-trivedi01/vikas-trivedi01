@@ -30,7 +30,7 @@ I'm passionate about creating scalable, well-designed web applications. Enthusia
 
 #### 🛠️ Tools:
 <div align="center">
- <img src="https://skillicons.dev/icons?i=git,vscode,github,xampp&perline=3"/>
+ <img src="https://skillicons.dev/icons?i=git,vscode,github,mysql"/>
 </div>
 
 ---
